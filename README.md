@@ -1,6 +1,5 @@
 # Evangadi Forum
 
-🌐 **Live Demo**: [evangadiforum.kalkidanazene.com](https://evangadiforum.kalkidanazene.com)
 
 Welcome to **Evangadi Forum** — a full-stack web application where users can register, log in, ask questions, and share answers with the community.
 
@@ -33,10 +32,4 @@ This project is designed to help people connect and collaborate by asking and an
 | JWT | Secure authentication |
 | Bootstrap | Responsive styling |
 
-## ⚙️ Setup & Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/kalkidan-mu/evangadi-forum-project.git
-   cd evangadi-forum-project
