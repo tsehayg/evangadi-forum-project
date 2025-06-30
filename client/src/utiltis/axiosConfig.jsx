@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://evangadi-forum-project-flqq.onrender.com/",
+  baseURL: "https://evangadi-forum-project-flqq.onrender.com/api",
 });
 
 // to include token in every request
